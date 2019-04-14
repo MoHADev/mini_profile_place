@@ -1,0 +1,49 @@
+{
+
+  "mini_profile_place": [{
+      "id_place": "1",
+      "place_name": "مجموعه شهید چمران",
+      "score": "۴.۵",
+      "distance": "۴۵۰",
+      "type": "1",
+      "feature": [{
+          "id_category": "1",
+          "category_name": "بیلیارد"
+        },
+        {
+          "id_category": "2",
+          "category_name": "استخر"
+        },
+        {
+          "id_category": "3",
+          "category_name": "بسکتبال"
+        }
+      ]
+    },
+
+    {
+      "id_place": "2",
+      "place_name": "استخر الهیه",
+      "score": " null",
+      "distance": "۴۵۰",
+      "type": "3",
+      "feature": []
+    },
+    {
+      "id_place": "3",
+      "place_name": "استخر قلهک",
+      "score": "۳",
+      "distance": "۴۵۰",
+      "type": "2",
+      "feature": [{
+          "id_category": "2",
+          "category_name": "استخر"
+        }
+
+      ]
+    }
+
+
+  ]
+
+}
